@@ -9,7 +9,7 @@ description: '戒酒的李白'
 keywords:spider,python,js
 author: bgspider
 language: zh-CN
-timezone: 'Asia/Shanghai'
+timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
