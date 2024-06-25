@@ -102,4 +102,6 @@ theme: fluid
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/py-wen-song/py-wen-song.github.io
+  branch: gh-pages
